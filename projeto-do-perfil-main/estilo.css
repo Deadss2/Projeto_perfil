@@ -1,0 +1,28 @@
+body{
+background-color:black;
+}
+
+
+h1{
+    font-size: 50px; 
+    color: black; 
+    text-align: center; 
+    text-shadow: 0 0 5px #fff,
+                 0 0 10px #fff, 
+                 0 0 20px white, 
+                 0 0 30px orange, 
+                 0 0 40px orange, 
+                 0 0 55px orange, 
+                 0 0 70px orange;	
+}
+
+p{
+
+background-image: linear-gradient(to top, orange, white); 
+-webkit-text-fill-color: transparent ; 
+-webkit-background-clip: text;
+font-size: 40px; 
+text-align: center; 
+text-transform: uppercase; 
+
+}
